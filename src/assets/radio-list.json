@@ -1,0 +1,177 @@
+[
+    {
+        "nativeRadioName": "Gajahmada FM",
+        "radioName": "gajahmada_fm",
+        "radioId": "19016",
+        "streamURL": "https://server.radioimeldafm.co.id:8040/gajahmadafm",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/6/19016.v7.png"
+    },
+    {
+        "nativeRadioName": "Rock Ballads",
+        "radioName": "rock_ballads",
+        "radioId": "110904",
+        "streamURL": "https://stream.zeno.fm/ynepvmy14bhvv",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/4/110904.v1.png"
+    },
+    {
+        "nativeRadioName": "IMI Radio",
+        "radioName": "imi_radio",
+        "radioId": "19014",
+        "streamURL": "https://live1.indostreamserver.com:8008/stream",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/4/19014.v13.png"
+    },
+    {
+        "nativeRadioName": "Retjo Buntung FM",
+        "radioName": "retjo_buntung_fm",
+        "radioId": "19400",
+        "streamURL": "https://ssg.streamingmurah.com:9940/stream",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/0/19400.v10.png"
+    },
+    {
+        "nativeRadioName": "Ardan Radio",
+        "radioName": "ardan_radio",
+        "radioId": "18827",
+        "streamURL": "https://stream.rcs.revma.com/1q762wy5a9hvv",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/7/18827.v9.png"
+    },
+    {
+        "nativeRadioName": "Radio Cakra Bandung",
+        "radioName": "radio_cakra_bandung",
+        "radioId": "19032",
+        "streamURL": "https://stream-156.zeno.fm/yoengdcdzyauv",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/2/19032.v8.png"
+    },
+    {
+        "nativeRadioName": "Radio online Tulungagung",
+        "radioName": "radio_online_tulungagung",
+        "radioId": "20366",
+        "streamURL": "https://stream.zeno.fm/954yxsx00ehvv",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/6/20366.v12.png"
+    },
+    {
+        "nativeRadioName": "Suara Surabaya",
+        "radioName": "suara_surabaya",
+        "radioId": "18988",
+        "streamURL": "https://c5.siar.us:8000/stream",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/8/18988.v6.png"
+    },
+    {
+        "nativeRadioName": "Radio Kasih",
+        "radioName": "radio_kasih",
+        "radioId": "64571",
+        "streamURL": "https://onlineradiobox.com/json/id/kasih/play?platform=web",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/1/64571.v6.png"
+    },
+    {
+        "nativeRadioName": "Radio Dangdut Indonesia",
+        "radioName": "radio_dangdut_indonesia",
+        "radioId": "18943",
+        "streamURL": "https://onlineradiobox.com/json/id/dangdutindonesia/play?platform=web",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/3/18943.v3.png"
+    },
+    {
+        "nativeRadioName": "RRI Pro 1",
+        "radioName": "rri_pro_1",
+        "radioId": "18844",
+        "streamURL": "https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/4/18844.v15.png"
+    },
+    {
+        "nativeRadioName": "Smooth 99.5 FM",
+        "radioName": "smooth_99.5_fm",
+        "radioId": "72602",
+        "streamURL": "https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/2/72602.v15.png"
+    },
+    {
+        "nativeRadioName": "Ninetysix Radio",
+        "radioName": "ninetysix_radio",
+        "radioId": "93978",
+        "streamURL": "https://c4.siar.us:8950/stream",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/8/93978.v52.png"
+    },
+    {
+        "nativeRadioName": "Z 99.9 FM",
+        "radioName": "z_99.9_fm",
+        "radioId": "100007",
+        "streamURL": "https://svara-stream.radioddns.net:8443/jakarta_z999fm_aac",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/7/100007.v5.png"
+    },
+    {
+        "nativeRadioName": "Classy NetRadio",
+        "radioName": "classy_netradio",
+        "radioId": "76656",
+        "streamURL": "https://streaming.classynetradio.com/radio/8000/classySD",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/6/76656.v25.png"
+    },
+    {
+        "nativeRadioName": "Rock Nation",
+        "radioName": "rock_nation",
+        "radioId": "90353",
+        "streamURL": "https://stream.zeno.fm/a5xadbvfd2zuv",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/3/90353.v8.png"
+    },
+    {
+        "nativeRadioName": "Radio Rodja Bogor",
+        "radioName": "radio_rodja_bogor",
+        "radioId": "19157",
+        "streamURL": "https://radioislamindonesia.com/rodja.mp3",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/7/19157.v17.png"
+    },
+    {
+        "nativeRadioName": "Wijaya FM",
+        "radioName": "wijaya_fm",
+        "radioId": "18885",
+        "streamURL": "https://onlineradiobox.com/json/id/wijaya/play?platform=web",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/5/18885.v5.png"
+    },
+    {
+        "nativeRadioName": "Menara FM",
+        "radioName": "menara_fm",
+        "radioId": "18889",
+        "streamURL": "https://c1.siar.us:10280/menarafmbali",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/9/18889.v6.png"
+    },
+    {
+        "nativeRadioName": "Global Throwback Hits",
+        "radioName": "global_throwback_hits",
+        "radioId": "96713",
+        "streamURL": "https://stream.zeno.fm/ehn9gybgqd0uv",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/3/96713.v1.png"
+    },
+    {
+        "nativeRadioName": "Spirit Online",
+        "radioName": "spirit_online",
+        "radioId": "19021",
+        "streamURL": "https://streaming.classynetradio.com:8060/spirit_online",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/1/19021.v17.png"
+    },
+    {
+        "nativeRadioName": "Rama FM Bandung",
+        "radioName": "rama_fm_bandung",
+        "radioId": "19044",
+        "streamURL": "https://onlineradiobox.com/json/id/ramabandung/play?platform=web",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/4/19044.v6.png"
+    },
+    {
+        "nativeRadioName": "Radio Dahlia",
+        "radioName": "radio_dahlia",
+        "radioId": "20405",
+        "streamURL": "https://svara-stream.radioddns.net:8443/bandung_dahliafm",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/5/20405.v5.png"
+    },
+    {
+        "nativeRadioName": "Radio Muslim",
+        "radioName": "radio_muslim",
+        "radioId": "20374",
+        "streamURL": "https://streaming.radiomuslim.com/;stream/1м",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/4/20374.v5.png"
+    },
+    {
+        "nativeRadioName": "Radio Suara Muslim Surabaya",
+        "radioName": "radio_suara_muslim_surabaya",
+        "radioId": "18990",
+        "streamURL": "https://onlineradiobox.com/json/id/suaramuslim/play?platform=web",
+        "radioImg": "https://cdn.onlineradiobox.com/img/l/0/18990.v3.png"
+    }
+]
